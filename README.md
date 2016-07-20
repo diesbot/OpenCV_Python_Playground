@@ -5,7 +5,8 @@ In this repository I mess around with OpenCV in Python 3.
 The necessary packages will be installed using conda (Anaconda) for Python 3.  
 Use ```conda update conda``` in preparation!
 
-Steps:  
+Steps:
+
 1. ```conda update --all```
 2. ```conda create -n opencv numpy scipy scikit-learn matplotlib python=3```
 3. ```source activate opencv``` (Linux, OSX),  
